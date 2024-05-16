@@ -5,6 +5,7 @@ This repository documents my progress and projects as I study cybersecurity in s
 ## Contents
 
 - [Courses](./courses)
+- - [Cisco Ethical Hacker](./cursos/cisco-ethical-hacker/README.md)
 - [Projects](./projects)
 - [Resources](./resources)
 
